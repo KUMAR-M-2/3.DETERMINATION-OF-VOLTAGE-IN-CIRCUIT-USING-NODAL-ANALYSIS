@@ -1,4 +1,6 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+# REFERENCE NO:25018872
+# NAME:M.KUAMR
 
 **AIM:**
 
@@ -20,6 +22,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+<img width="582" height="379" alt="image" src="https://github.com/user-attachments/assets/f4e27f13-b4f1-43d6-b70c-5ce4c39de336" />
+
+**TABULAR COLUMN:**
+
+<img width="645" height="390" alt="image" src="https://github.com/user-attachments/assets/bf8175f3-3d59-48fb-b96e-6599cd94ff3e" />
+
 
  
 **PROCEDURE:**
@@ -35,6 +43,13 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+**CALCULATION:**
+<img width="535" height="830" alt="image" src="https://github.com/user-attachments/assets/784343b1-6788-4a56-ba76-cab3832aae22" />
+<img width="737" height="730" alt="image" src="https://github.com/user-attachments/assets/716264c2-0289-4aeb-8e9c-a53914303536" />
+
+
+**MARK SPLIT UP:**
+<img width="612" height="690" alt="image" src="https://github.com/user-attachments/assets/6851b0cf-8c79-4ee3-84d7-31e748119563" />
 
 **RESULT:**
 
