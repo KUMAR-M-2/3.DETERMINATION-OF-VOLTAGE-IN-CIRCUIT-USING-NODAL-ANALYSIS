@@ -49,7 +49,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 
 **MARK SPLIT UP:**
-<img width="612" height="690" alt="image" src="https://github.com/user-attachments/assets/6851b0cf-8c79-4ee3-84d7-31e748119563" />
+![WhatsApp Image 2025-12-16 at 20 24 31_7556d2e7](https://github.com/user-attachments/assets/78534540-8553-4339-8a6c-ebd83f355a9a)
 
 **RESULT:**
 
